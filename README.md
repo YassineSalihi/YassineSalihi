@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @YassineSalihi
-- 👀 I’m interested in 
+- 👀 I’m interested in (...)
 - 🌱 I’m currently learning Java(in progress)/android studio(not yet)/C++(not started yet)
 - 😄 And I'm preparing for CCNA
 - 📫 How to reach me (I will put it later)
