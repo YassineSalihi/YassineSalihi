@@ -1,4 +1,4 @@
-## Hello World! ![I've Got a Computer](https://i.makeagif.com/media/10-06-2025/_DQBV-.gif)
+## Hello World! 
 
 <a href="https://twitter.com/Salihi_Yas">
   <img align="left" alt="Salihi's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -7,6 +7,7 @@
   <img align="left" alt="Salihi's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <br />
+
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
 ### I am SALIHI Yassine
