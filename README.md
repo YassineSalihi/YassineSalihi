@@ -1,4 +1,4 @@
-## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+## Hello World! ![I've Got a Computer](https://i.makeagif.com/media/10-06-2025/_DQBV-.gif)
 
 <a href="https://twitter.com/Salihi_Yas">
   <img align="left" alt="Salihi's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
